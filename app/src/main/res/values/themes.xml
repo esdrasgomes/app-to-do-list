@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ListaDeTarefas" parent="Theme.MaterialComponents.Light.NoActionBar"> <!--tirando a ActionBar-->
+        <!-- Colors Primarys -->
+        <item name="colorPrimaryDark">@color/black</item> <!-- barra de notificações -->
+        <item name="colorPrimary">@color/black</item> <!-- local onde fica o título -->
+
+        <!-- Colors Secondarys-->
+        <item name="colorSecondary">@color/black</item> <!-- cor do botão -->
+        <item name="colorOnSecondary">@color/white</item> <!-- cor do ícone botão -->
+    </style>
+</resources>
